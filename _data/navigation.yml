@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://edwardloo.github.io
+    url: /index.html/
   - title: "Projects"
     url: /projects/
   - title: "Books"
