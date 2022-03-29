@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /books/
+title: "Books"
 ---
 
 ## List of Books
