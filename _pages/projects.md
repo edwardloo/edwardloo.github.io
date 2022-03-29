@@ -3,7 +3,7 @@ permalink: /projects/
 title: "Projects"
 ---
 
-# List of Projects
+## List of Projects
 ---
 - [Asteroid Treat Prediction (Kaggle Dataset) EDA](https://github.com/edwardloo/Kaggle/blob/main/asteroid-threat-prediction-EDA.ipynb)
 
