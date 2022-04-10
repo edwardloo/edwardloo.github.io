@@ -1,5 +1,10 @@
 ---
 title: "Mutual Information vs Correlation Coefficient"
+categories:
+    - Blog
+tags:
+    - Data Science
+    - Statistics
 ---
 
 ---
