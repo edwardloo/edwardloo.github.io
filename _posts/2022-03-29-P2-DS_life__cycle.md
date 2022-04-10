@@ -1,5 +1,9 @@
 ---
 title: "Data Science Project Life Cycyle"
+categories:
+    - Blog
+tags:
+    - Data Science
 ---
 
 ---
