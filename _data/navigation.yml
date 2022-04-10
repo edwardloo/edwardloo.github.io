@@ -4,8 +4,8 @@ main:
     url: https://edwardloo.github.io
   - title: "DS Projects"
     url: /projects/
-  - title: "Acousitc Projects"
-    url: /acoustic/
+  #- title: "Acousitc Projects"
+  #  url: /acoustic/
   - title: "Books"
     url: /books/
   - title: "Archive"
