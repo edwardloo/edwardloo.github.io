@@ -31,7 +31,7 @@ According to [Weber's Law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_l
 | Pressure | 20 μPa (Threshold of Hearing) | 200 Pa (Threshold of Pain) |
 | SPL (ref 20 μPa) | 0 dB | 140 dB |
 | Frequency | 20 Hz | 20,000 Hz |
-| Most Sensitive *f* (Human) | 500 Hz | 5,000 Hz |
+| Most Sensitive *f* (Human) | 500 Hz | 5,000 Hz |{: .align-center}
 
 ### Human Perception of SPL in dB
 
@@ -41,7 +41,7 @@ According to [Weber's Law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_l
 | 5 | Noticeable difference |
 | 10 | Twice as loud|
 | 15 | Significant difference |
-| 20 | Four times as loud |
+| 20 | Four times as loud |{: .align-center}
 
 ### Addition of SPL
 ![image](https://user-images.githubusercontent.com/79191009/162629886-8655f658-8232-4070-9fbb-4faa28105508.png){: .align-center}
@@ -64,7 +64,7 @@ According to [Weber's Law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_l
 | X + 13 | X + 13.2 |
 | X + 14 | X + 14.2 |
 | X + 15 | X + 15.1 |
-| X + 16 | X + 16.1 |
+| X + 16 | X + 16.1 |{: .align-center}
 
 ## Sound Level Weightings
 [Frequency weighting](https://www.engineeringtoolbox.com/decibel-d_59.html) system was standardized by the ***International Electrotechnical Commission (IEC)***
@@ -130,4 +130,5 @@ Commonly used *Lx* values are:
 ---
 ### References
 [1] M. Asselineau, *Building Acoustics*. Boca Raton, Florida: CRC Press, 2015.
+
 [2] D. A. Bies, C. H. Hansen, and C. Q. Howard, *Engineering Noise Control*, 5th ed. Boca Raton, Florida: CRC Press, 2017.
