@@ -12,8 +12,9 @@ Hello there, nice to meet you, I am Edward. I am an engineering graduate majorin
 | Page | Content |
 |------|---------|
 | Home | Posts on my learnings of knowledge that I would like to document. |
-| Projects | Details on the projects that I had worked on. |
+| DS Projects | Details on the data science projects that I had worked on. |
 | Books | List of books that I had read. |
+| Archive | Tag-sorted archive of all my posts. |
 | About | This page. |
 
 ---
