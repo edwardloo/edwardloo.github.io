@@ -31,7 +31,7 @@ According to [Weber's Law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_l
 | Pressure | 20 μPa (Threshold of Hearing) | 200 Pa (Threshold of Pain) |
 | SPL (ref 20 μPa) | 0 dB | 140 dB |
 | Frequency | 20 Hz | 20,000 Hz |
-| Most Sensitive *f* (Human) | 500 Hz | 5,000 Hz |{: .align-center}
+| Most Sensitive *f* (Human) | 500 Hz | 5,000 Hz |
 
 ### Human Perception of SPL in dB
 
@@ -41,7 +41,7 @@ According to [Weber's Law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_l
 | 5 | Noticeable difference |
 | 10 | Twice as loud|
 | 15 | Significant difference |
-| 20 | Four times as loud |{: .align-center}
+| 20 | Four times as loud |
 
 ### Addition of SPL
 ![image](https://user-images.githubusercontent.com/79191009/162629886-8655f658-8232-4070-9fbb-4faa28105508.png){: .align-center}
@@ -64,7 +64,7 @@ According to [Weber's Law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_l
 | X + 13 | X + 13.2 |
 | X + 14 | X + 14.2 |
 | X + 15 | X + 15.1 |
-| X + 16 | X + 16.1 |{: .align-center}
+| X + 16 | X + 16.1 |
 
 ## Sound Level Weightings
 [Frequency weighting](https://www.engineeringtoolbox.com/decibel-d_59.html) system was standardized by the ***International Electrotechnical Commission (IEC)***
@@ -122,10 +122,11 @@ Commonly used *Lx* values are:
 
 | *Lx* | Meaning | Interpretation |
 |------|---------|----------------|
-| *L10* | Sound level reached or exceeded for *10%* of the analysis time. | Quantify the highest noise level taken. Used for measuring impact or short and transient burst of noise |
+| *L10* | Sound level reached or exceeded for *10%* of the analysis time. | Quantify the highest noise level taken. Used for measuring impact or short and transient burst of noise (e.g.: traffic noise). |
 | *L50* | Sound level reached or exceeded for *50%* of the analysis time. | Usually less than *Leq* for fluctuating noise. |
 | *L90* | Sound level reached or exceeded for *90%* of the analysis time. | Quantify the lowest noise level taken. Used for measuring background or ambient noise. |
 
+For further information, [Pulsar Instruments](https://pulsarinstruments.com/news/what-are-ln-values-and-how-are-they-used/#:~:text=Ln%20values%20are%20statistical%20noise,timed%20measurement%20period%20(T).) has an article which explains statistical sound levels in greater depths.
 
 ---
 ### References
