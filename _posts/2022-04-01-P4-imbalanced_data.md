@@ -1,5 +1,9 @@
 ---
 title: "Dealing with Imbalance Data in Classification Problem"
+categories:
+    - Blog
+tags:
+    - Data Science
 ---
 
 ---
