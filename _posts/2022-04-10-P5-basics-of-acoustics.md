@@ -11,7 +11,7 @@ tags:
 
 > *Acoustics* is defined as the science of sound.
 
-## Sound Characterization (Quantitative vs Qualitative)
+## Sound Characterization
 
 | Qualitative (Perceived) | Quantitative (Measured) |
 |------------------------|--------------------------|
