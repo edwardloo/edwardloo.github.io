@@ -90,9 +90,11 @@ Some reference values on A-weighted SPLs.
 | 90 | Airport façade with a plane maneuvering at the pier. |
 | 140 | 5 m from a jet engine |
 
-Since it is possible to achieve a given weighted value with rather different spectrum shapes [e.g.: A-weighted SPL for 100 dB (@ 1000 Hz) = 126 dB (@ 63 Hz)], one usually specifies noise limits using simultaneously a global A-weighted sound level value and a frequency contour featuring higher levels in the lower-frequency range than in the higher-frequency range.
+Since it is possible to achieve a given weighted value with rather different spectrum shapes, one usually specifies noise limits using simultaneously a global A-weighted sound level value and a frequency contour featuring higher levels in the lower-frequency range than in the higher-frequency range.
 
-### Common Noise Evaluation Contour
+> E.g.: A-weighted SPL for 100 dB (@ 1000 Hz) = 126 dB (@ 63 Hz)
+
+### Common Noise Weighting Curves (Countours)
 
 | Contour | Description | Standards |
 |---------|-------------|-----------|
