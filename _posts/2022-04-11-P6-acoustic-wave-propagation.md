@@ -1,10 +1,9 @@
 ---
-  title: "Acoustic Wave Propagation"
+title: "Acoustic Wave Propagation"
 categories:
     - Blog
 tags:
-    - Acoustics
-    
+    - Acoustics  
 ---
 
 ---
