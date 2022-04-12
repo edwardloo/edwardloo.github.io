@@ -4,6 +4,9 @@ categories:
     - Blog
 tags:
     - Acoustics
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
 ---
@@ -131,7 +134,7 @@ Commonly used *Lx* values are:
 For further information, [Pulsar Instruments](https://pulsarinstruments.com/news/what-are-ln-values-and-how-are-they-used/#:~:text=Ln%20values%20are%20statistical%20noise,timed%20measurement%20period%20(T).) has an article which explains statistical sound levels in greater depths.
 
 ---
-### References
+## References
 [1] M. Asselineau, *Building Acoustics*. Boca Raton, Florida: CRC Press, 2015.
 
 [2] D. A. Bies, C. H. Hansen, and C. Q. Howard, *Engineering Noise Control*, 5th ed. Boca Raton, Florida: CRC Press, 2017.
