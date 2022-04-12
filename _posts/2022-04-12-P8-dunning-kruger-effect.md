@@ -26,7 +26,7 @@ I came across the Dunning-Kruger effect while reading discussion platforms on ca
 Figure 1: The Dunning-Kruger Effect (Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Dunning%E2%80%93Kruger_Effect_01.svg))
 {: .text-center}
 
-### The Double Curse of Dunning-Kruger Effect
+## The Double Curse of Dunning-Kruger Effect
 
 The Dunning-Kruger effect results in what’s known as a "double curse" Not only do people ***perform poorly***, but they are not self-aware enough to judge themselves accurately—and are thus ***unlikely to learn and grow***.
 
