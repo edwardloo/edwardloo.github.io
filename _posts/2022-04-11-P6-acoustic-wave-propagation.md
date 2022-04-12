@@ -4,6 +4,9 @@ categories:
     - Blog
 tags:
     - Acoustics  
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
 ---
@@ -44,7 +47,7 @@ Where:
 - *A* = total area of absorption, in *m^2*
 
 ---
-### References
+## References
 [1] M. Asselineau, *Building Acoustics*. Boca Raton, Florida: CRC Press, 2015.
 
 [2] D. A. Bies, C. H. Hansen, and C. Q. Howard, *Engineering Noise Control*, 5th ed. Boca Raton, Florida: CRC Press, 2017.
