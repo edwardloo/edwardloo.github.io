@@ -50,7 +50,7 @@ Figure 1: Acoustic transmission paths between spaces [1] {: .text-center}
 | Between cinema theatres | 65-70 | Usually is the range required by the background noise levels targeted by the standards of the industry. |
 
 ---
-### References
+## References
 [1] M. Asselineau, *Building Acoustics*. Boca Raton, Florida: CRC Press, 2015.
 
 [2] D. A. Bies, C. H. Hansen, and C. Q. Howard, *Engineering Noise Control*, 5th ed. Boca Raton, Florida: CRC Press, 2017.
