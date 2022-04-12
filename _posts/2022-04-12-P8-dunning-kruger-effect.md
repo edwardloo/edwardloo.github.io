@@ -11,7 +11,7 @@ toc_sticky: true
 ---
 ## Foreword
 
-I came across the Dunning-Kruger effect while reading discussion platforms on career development some time in the early 2022. Upon further reading, I realized that I experienced this interesting phenomenon frequently. Therefore, I decided to document what I know and read about it as an effort to better orchestrate my continuous learning while keeping myself humble and open-minded.
+I came across the Dunning-Kruger effect while reading discussion platforms on career development some time in the early 2022. Upon further reading, I realized that I experienced this interesting phenomenon frequently. Therefore, I decided to document what I know and had read about as an effort to better orchestrate my continuous learning while keeping myself humble and open-minded.
 
 ---
 
