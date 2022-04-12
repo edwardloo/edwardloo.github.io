@@ -6,7 +6,7 @@ tags:
     - Acoustics
     - Noise Control
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "Table of Contents"
 toc_icon: "cog"
 
 ---
