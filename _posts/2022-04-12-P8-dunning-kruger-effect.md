@@ -32,14 +32,14 @@ The Dunning-Kruger effect results in what’s known as a "double curse" Not only
 
 ## Causes
 
-- Overconfidence ([Overprecision](https://en.wikipedia.org/wiki/Overconfidence_effect#:~:text=Overprecision%20is%20the%20excessive%20confidence,that%20individual%20items%20are%20correct.),Overestimation & Overplacement)
+- Overconfidence ([Overprecision](https://en.wikipedia.org/wiki/Overconfidence_effect#:~:text=Overprecision%20is%20the%20excessive%20confidence,that%20individual%20items%20are%20correct.), Overestimation & Overplacement)
 - Lack of skills
 - Lack of domain knowledge
 - Lack of [metacognition](https://en.wikipedia.org/wiki/Metacognition) (the ability to step back and examine oneself objectively)
 - Desire for status and power
 - [Narcissism](https://en.wikipedia.org/wiki/Narcissism)
 - Usage of mental shortcuts (heuristics or guidelines) that allows for quick decision making
-- Carrying over knowledge from area that they are familiar with into other areas in which they are less familiar.
+- Carrying over knowledge from area that they are familiar with into other areas in which they are less familiar
 
 ## Preventions & Remedies
 - Regular and honest self-questioning on the knowledge (avoid [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias))
