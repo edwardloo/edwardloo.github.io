@@ -38,7 +38,8 @@ toc_sticky: true
 
 ![image](https://user-images.githubusercontent.com/79191009/162876879-82f6f0cd-30a0-424c-a4f1-8f2f0805df9e.png){: .align-center}
 
-Figure 1: Acoustic transmission paths between spaces [1] {: .text-center}
+Figure 1: Acoustic transmission paths between spaces [1]
+{: .text-center}
 
 ## Common Sound Insulation Ranges and Values
 
