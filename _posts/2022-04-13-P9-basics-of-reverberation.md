@@ -63,6 +63,12 @@ Sometimes, a change of slope could be observed in a reverberation curve which us
 
 Figure 3: Example of Reverberation Time Curve with Flutter Echo
 
+### Reverberation Time Design Standards
+
+| Standard | Title |
+|----------|----------|
+| AS/NZS 2107:2016 | Acoustics-Recommended Design Sound Levels and Reverberation Times for Building Interiors |
+
 ### Reverberation Time Measurement
 
 1. Creating a sufficiently loud noise (usually > 90 *dB*) either by impulse noise (e.g.: blan pistol shot/balloon burst) or random noise signal ([pink](https://en.wikipedia.org/wiki/Pink_noise)/[white](https://en.wikipedia.org/wiki/White_noise) noise)
