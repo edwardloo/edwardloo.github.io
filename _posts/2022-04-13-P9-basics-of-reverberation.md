@@ -21,6 +21,14 @@ toc_sticky: true
 Figure 1: Reverberation  due to Acoustic Reflections in Enclosed Space (Source: [1])
 {: .text-center}
 
+### Reverberation vs Echo
+
+| Parameter | Reverberation | Echo |
+|-----------|---------------|------|
+| Intuition | Similar to time constant of a physical system; the response after providing an impluse excitation | Product of multiple reflections that last a very short time span (no longer than 22 ms) which arrived well after the direct sound (i.e., more than 100 ms) |
+| Perception | Perceived continuously by listener | Perceived as discrete sounds |
+| Example Response of "Hi" | "Hhhhhiiiiiiiiiii..." | "Hi"..."Hi"..."Hi"... |
+
 ### Absorption Coefficient, *α*
 
 When sound wave impinges on a material, part of the energy will be reflected, another part will be transmitted through, and the last part will be absorbed as heat loss aas shown in Figure 2. Absorption coefficient is used to quantify the transmitted and absorbed part when sound wave strikes a material.
@@ -42,21 +50,13 @@ Where :
 More information on *α* :
   - *α* range from 0 to 1
   - *α* is frequency dependent
-  - material are considered absorptive is *α* > 0.5
+  - material are considered absorptive if *α* > 0.5
   - thicker materials have better absorptive performance in low-frequency range
-  - absorptive material usually low high airflow resistivity
-
-### Reverberation vs Echo
-
-| Parameter | Reverberation | Echo |
-|-----------|---------------|------|
-| Intuition | Similar to time constant of a physical system; the response after providing an impluse excitation | Product of multiple reflections that last a very short time span (no longer than 22 ms) which arrived well after the direct sound (i.e., more than 100 ms) |
-| Perception | Perceived continuously by listener | Perceived as discrete sounds |
-| Example Response of "Hi" | "Hhhhhiiiiiiiiiii..." | "Hi"..."Hi"..."Hi"... |
+  - absorptive material usually low airflow resistivity
 
 ## Reverberation Time, *T60*
 
-> Reverberation time (RT) is defined as the time taken for a sound source level to decay by 60 *dB* afterthe sound source is stopped across frequency bands. RT is frequency dependent.
+> Reverberation time (RT) is defined as the time taken for a sound source level to decay by 60 *dB* after the sound source is stopped across frequency bands. RT is frequency dependent.
 
 Sometimes, a change of slope could be observed in a reverberation curve which usually indicates the presence of a [flutter echo](https://www.supawood.com.au/news/architecturally-sound-part-2-how-flutter-echo-impacts-a-space).
 
@@ -73,8 +73,8 @@ Figure 3: Example of Reverberation Time Curve with Flutter Echo (Source: [1])
 
 ### Reverberation Time Measurement
 
-1. Creating a sufficiently loud noise (usually > 90 *dB*) either by impulse noise (e.g.: blan pistol shot/balloon burst) or random noise signal ([pink](https://en.wikipedia.org/wiki/Pink_noise)/[white](https://en.wikipedia.org/wiki/White_noise) noise)
-2. Measure the response of the enclosed space using a calibrated sound level meter (response time set to *impulse* option)
+1. Creating a sufficiently loud noise (usually > 90 *dB*) either by impulse noise (e.g.: blank pistol shot/balloon burst) or random noise signal ([pink](https://en.wikipedia.org/wiki/Pink_noise)/[white](https://en.wikipedia.org/wiki/White_noise) noise)
+2. Measure the response of the enclosed space using a calibrated sound level meter (response time set to *"impulse"* option)
 3. Plot the response across different octave bands to obtain the time  taken for 60 *dB* drop
 4. If the decay of 60 *dB* is not attainable (occurs frequently), extrapolation from ***T20*** or ***T30*** could be used as well, given that the decay is linear
 
@@ -107,7 +107,7 @@ Where :
 Sabine equation :
   - assumed that the enclosed volumes have rather reflective surfaces with similar dimensions ("live" rooms)
   - tends to over-predict reverberation time for small rooms with high amounts of absorption
-  - will perform poorly (low accuracy) when the absorption is larger
+  - will perform poorly (low accuracy) when the absorption in a volume is larger
   - only valid for uniform volumes like cuboid
 
 ### Eyring Equation
@@ -123,7 +123,7 @@ Eyring equation :
 
 Although reverberation time is widely used, it is not always the best for describing internal acoustics. For example:
 
-> A flat encumbered space it will feature a rather low value, sometimes similar to that for a small lounge, while people inside will find the acoustics uncomfortable.
+> A flat encumbered space will feature a rather low value, sometimes similar to that for a small lounge, while people inside will find the acoustics uncomfortable.
 
 For such situations, one may use the spatial sound level decay *DL2*, which is the rate of sound level decay with doubling of distance. As shown in Figure 4, it is possible to distinguish the direct field region close to the source (where the influence of the room is not yet felt) and the far field region (where one is left with the reverberant field). In between stands the intermediate region, which is controlled by the acoustic treatment of the room.
 
