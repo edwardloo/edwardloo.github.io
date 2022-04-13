@@ -11,11 +11,7 @@ toc_sticky: true
 # 1. [Asteroid Treat Prediction](https://github.com/edwardloo/Kaggle/blob/main/asteroid-threat-prediction.ipynb)
 
 ## Current Result
-| Model | Precision | Recall | Accuracy | F1 |
-|-------|-----------|--------|----------|----|
-| DecisionTreeClassifier | 0.798493 |	1.0 |	0.999426 | 0.887958 |
-| XGBClassifier |	0.794007 | 1.0 |	0.999410 |	0.885177 |
-| LogisticRegression | 0.092657 |	1.0 |	0.977733 |	0.169600 |
+<img src = "https://user-images.githubusercontent.com/79191009/163125426-a67a3991-9950-438c-991f-3e84d2c023ff.png">{: .align-center}
 
 
 ## Pair Plot
