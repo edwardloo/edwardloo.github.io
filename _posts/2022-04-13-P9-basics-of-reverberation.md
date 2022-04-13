@@ -14,7 +14,7 @@ toc_sticky: true
 ---
 ## Reverberation
 
-> Reverberation is the persistence of sound in an enclosed volume due to multiple reflections on the enclosed surfaces after the sound source has been stopped. Reverberation is usually quantified as reverberation time, *T60*.
+> ***Reverberation*** is the persistence of sound in an enclosed volume due to multiple reflections on the enclosed surfaces after the sound source has been stopped. Reverberation is usually quantified as reverberation time, *T60*.
 
 <img src = "https://user-images.githubusercontent.com/79191009/163111136-ed305da3-62eb-4535-8e8f-56bc00c5be36.png" width = 400 height = 250>{: .align-center}
 
@@ -30,7 +30,7 @@ When sound wave impinges on a material, part of the energy will be reflected, an
 Figure 2: Incident (*Ii*), reflected (*Ir*), Absorbed (*Ia*), and Transmitted (*It*) Waves (Source: [1])
 {: .text-center}
 
-> Absorption coefficient is defined as the ratio of absorbed energy over incident energy.
+> ***Absorption coefficient*** is defined as the ratio of absorbed energy over incident energy.
 
 ![image](https://user-images.githubusercontent.com/79191009/163108917-8bffe3d1-6511-4739-bbcd-d79ae89e9306.png){: .align-center}
 
@@ -59,9 +59,10 @@ More information on *α* :
 > Reverberation time (RT) is defined as the time taken for a sound source level to decay by 60 *dB* afterthe sound source is stopped across frequency bands. RT is frequency dependent.
 
 Sometimes, a change of slope could be observed in a reverberation curve which usually indicates the presence of a [flutter echo](https://www.supawood.com.au/news/architecturally-sound-part-2-how-flutter-echo-impacts-a-space).
+
 <img src = "https://user-images.githubusercontent.com/79191009/163113860-3db9c66c-1255-4684-812c-15e42a0f6c6b.png" width = 550 height = 400>{: .align-center}
 
-Figure 3: Example of Reverberation Time Curve with Flutter Echo
+Figure 3: Example of Reverberation Time Curve with Flutter Echo (Source: [1])
 
 ### Reverberation Time Design Standards
 
@@ -110,7 +111,7 @@ Sabine equation :
 
 ### Eyring Equation
 
-![image](https://user-images.githubusercontent.com/79191009/163118609-d801a5f3-c1f9-46f6-972d-1a9340145a3d.png){: . align-center}
+![image](https://user-images.githubusercontent.com/79191009/163118609-d801a5f3-c1f9-46f6-972d-1a9340145a3d.png){: .align-center}
 
 Eyring equation :
   - better estimates the RT in small rooms with relatively large quantities of sound absorption ("dead" rooms)
