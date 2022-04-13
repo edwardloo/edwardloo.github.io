@@ -63,6 +63,7 @@ Sometimes, a change of slope could be observed in a reverberation curve which us
 <img src = "https://user-images.githubusercontent.com/79191009/163113860-3db9c66c-1255-4684-812c-15e42a0f6c6b.png" width = 550 height = 400>{: .align-center}
 
 Figure 3: Example of Reverberation Time Curve with Flutter Echo (Source: [1])
+{: .text-center}
 
 ### Reverberation Time Design Standards
 
