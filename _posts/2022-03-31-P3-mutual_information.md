@@ -5,6 +5,7 @@ categories:
 tags:
     - Data Science
     - Statistics
+excerpt: "A brief information on the common feature selection metrics, correlation and mutual information."
 ---
 
 ---
