@@ -103,8 +103,8 @@ analytics:
 # Site Author
 author:
   name             : "Edward Loo"
-  avatar           : "images/amelia_watson.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I usually daydream myself playing water gun with **ピカチュウ.** My current hearing sensitivity is (60 - 17,800) Hz."
+  avatar           : "images/amelia_watson_1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I usually daydream myself playing water gun with **ピカチュウ.** \n\nMy current hearing sensitivity is (60 - 17,800) Hz."
   location         : "Selangor, MY"
   email            : 
   links:
