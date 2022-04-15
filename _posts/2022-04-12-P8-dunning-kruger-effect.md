@@ -8,6 +8,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
+excerpt: "Description and potential options in dealing with the common Dunning-Kruger effect."
 ---
 ## Foreword
 
