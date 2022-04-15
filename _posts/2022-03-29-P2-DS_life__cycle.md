@@ -4,6 +4,7 @@ categories:
     - Blog
 tags:
     - Data Science
+excerpt: "A brief guideline of the life cycle for a typical data science project."
 ---
 
 ---
