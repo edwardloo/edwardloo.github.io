@@ -103,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "Edward Loo"
-  avatar           : "images/amelia_watson_1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I usually daydream myself playing water gun with **ピカチュウ.** \n\nMy current hearing sensitivity is (60 - 17,800) Hz."
+  avatar           : "images/amelia_watson.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I usually daydream myself playing water gun with **ピカチュウ.** \n\nMy current hearing sensitivity is (60 - 17,800) Hz. \n#Skills: \n- Python \n- MATLAB \n- AutoCAD \n- Machine Learning"
   location         : "Selangor, MY"
-  email            : 
+  email            : "edward.loohp@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:edward.loohp@gmail.com"
+      # url: "mailto:edward.loohp@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
