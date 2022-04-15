@@ -4,6 +4,7 @@ categories:
     - Blog
 tags:
     - Data Science
+excerpt: "Guidelines on dealing with imbalanced data classes when working on data science projects."
 ---
 
 ---
