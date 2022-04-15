@@ -128,7 +128,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Kaggle"
       icon: "fab fa-fw fa-kaggle"
-      url: "https://www.kaggle.com/loohanpin"
+      # url: "https://www.kaggle.com/loohanpin"
 
 # Site Footer
 footer:
