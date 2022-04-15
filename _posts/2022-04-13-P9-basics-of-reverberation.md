@@ -1,5 +1,5 @@
 ---
-title: "Basics of Reverberation Time"
+title: "Basics of Reverberation"
 categories:
     - Blog
 tags:
@@ -9,6 +9,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
+excerpt: "Brief introduction on the notion of reverberation."
 ---
 
 ---
