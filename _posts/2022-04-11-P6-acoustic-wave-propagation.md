@@ -8,6 +8,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
+excerpt: "Brief information on how sound propagates in free field condition."
 ---
 
 ---
