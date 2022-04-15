@@ -9,6 +9,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
+excerpt: "Introduction to the concept of sound insulation and attenuation."
 ---
 
 ---
