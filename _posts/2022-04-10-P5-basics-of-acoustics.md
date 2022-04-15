@@ -8,6 +8,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
+excerpt: "A comprehensive introduction to the basic of acoustics and sound."
 ---
 
 ---
