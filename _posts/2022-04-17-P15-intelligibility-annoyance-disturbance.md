@@ -40,7 +40,7 @@ excerpt: "Brief introduction on the notion of intelligibility, annoyance and dis
 | Visual Cues | The better the vision of the speaker by the listener, the better his understanding of the speech signal. |
 
 ## Assessment Methods for Intelligibility
-The assessment of speech intelligibility can be performed through a list of words or sentencesbeing read by a normal speaker to a panel of normal-hearing listeners. Unfortunately, this method calls for a significant number of participants, which makes it costly and unpractical. More to the point, it is quite time-consuming and depending on the native language of the speaker and the listeners, scores can vary by as much as 20%.
+The assessment of speech intelligibility can be performed through a list of words or sentences being read by a normal speaker to a panel of normal-hearing listeners. Unfortunately, this method calls for a significant number of participants, which makes it costly and unpractical. More to the point, it is quite time-consuming and depending on the native language of the speaker and the listeners, scores can vary by as much as 20%.
 
 Therefore, quantitative measurements were used more commonly nowadays which are listed as follows:
 
@@ -49,7 +49,7 @@ Therefore, quantitative measurements were used more commonly nowadays which are 
 3. **STIPA** (Speech Transmission Index for Public Address)
 4. **RASTI** (Rapid Speech Transmission Index)
 
-To learn more on how intelligibility is measured in practice, I had found that NTi Audio's *XL2 Analyzer* which I had used before adopts [STIPA](https://www.nti-audio.com/Portals/0/data/en/NTi-Audio-AppNote-STIPA-Measurement.pdf) (also could be found [here](https://edwardloo.github.io/assets/pdf/NTi-Audio-AppNote-STIPA-Measurement.pdf)) for quick & portable measurements in generating STI report.
+On side note, about how intelligibility is measured in practice, I had found that NTi Audio's *XL2 Analyzer* which I had used before adopts [STIPA](https://www.nti-audio.com/Portals/0/data/en/NTi-Audio-AppNote-STIPA-Measurement.pdf) (also could be found [here](https://edwardloo.github.io/assets/pdf/NTi-Audio-AppNote-STIPA-Measurement.pdf)) for quick & portable measurements in generating STI report.
 
 ### %ALcons (Percentage Articulation Loss of Consonants)
 
