@@ -20,7 +20,7 @@ excerpt: "Brief introduction on the notion of intelligibility, annoyance and dis
 | Case | Desirable | Undesirable |
 |----- |-----------|-------------|
 | Purpose | To ensure speech is understandable | To ensure speech is not understandable & not disturbing |
-| Example | conference hall, lecture theatre, etc | meeting rooms, banks, etc |
+| Example | conference hall, lecture theatre, etc | meeting room, bank, etc |
 
 ### Levels of Understanding in Intelligibility
 
@@ -44,12 +44,12 @@ The assessment of speech intelligibility can be performed through a list of word
 
 Therefore, quantitative measurements were used more commonly nowadays which are listed as follows:
 
-1. %ALcons (Percentage Articulation Loss of Consonants)
-2. STI (Speech Transmission Index)
-3. STIPA (Speech Transmission Index for Public Address)
-4. RASTI (Rapid Speech Transmission Index)
+1. **%ALcons** (Percentage Articulation Loss of Consonants)
+2. **STI** (Speech Transmission Index)
+3. **STIPA** (Speech Transmission Index for Public Address)
+4. **RASTI** (Rapid Speech Transmission Index)
 
-To learn more on how intelligibility is measured in practice, I had found that NTi Audio's *XL2 Analyzer* which I had used before uses [STIPA](https://www.nti-audio.com/Portals/0/data/en/NTi-Audio-AppNote-STIPA-Measurement.pdf) (also could be found [here](https://edwardloo.github.io/assets/pdf/NTi-Audio-AppNote-STIPA-Measurement.pdf)) for quick & portable measurements in generating STI report.
+To learn more on how intelligibility is measured in practice, I had found that NTi Audio's *XL2 Analyzer* which I had used before adopts [STIPA](https://www.nti-audio.com/Portals/0/data/en/NTi-Audio-AppNote-STIPA-Measurement.pdf) (also could be found [here](https://edwardloo.github.io/assets/pdf/NTi-Audio-AppNote-STIPA-Measurement.pdf)) for quick & portable measurements in generating STI report.
 
 ### %ALcons (Percentage Articulation Loss of Consonants)
 
@@ -64,7 +64,7 @@ Where:
 - ***N_{dir}***   = number of loudspeaker contributing to direct (early) sound
 - ***Q***         = directivity factor of source
 - ***M***         = specialist modifier (assume M=1 for most situations)
-- ***D_2***        ==furthest distance from loudspeaker [*m*]
+- ***D_2***       = furthest distance from loudspeaker [*m*]
 
 ### Speech Transmission Index (STI)
 
