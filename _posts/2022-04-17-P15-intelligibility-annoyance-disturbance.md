@@ -134,7 +134,7 @@ To deal with this issue, standards and regulations use a quantity that describes
 | Intrusiveness | Australia | - |
 
 ---
-## References
+# References
 [1] M. Asselineau, *Building Acoustics*. Boca Raton, Florida: CRC Press, 2015.
 
 [2] D. A. Bies, C. H. Hansen, and C. Q. Howard, *Engineering Noise Control*, 5th ed. Boca Raton, Florida: CRC Press, 2017.
