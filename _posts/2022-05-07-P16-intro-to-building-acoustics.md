@@ -33,6 +33,7 @@ Generally, when an sound wave impinges onto a material, the incident sound waves
   - [Absorbed](https://en.wikipedia.org/wiki/Absorption_(acoustics)) (defined by ***α***)
 
 Which resulted in the following relationship:
+
 ![image](https://user-images.githubusercontent.com/79191009/167236908-b360741f-a56c-49d5-8f63-631891cb81b3.png){: .align-center}
 
 Some common notions on sound transmission through materials:
