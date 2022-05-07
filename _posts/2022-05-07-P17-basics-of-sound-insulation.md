@@ -66,7 +66,8 @@ Direction transmission that is characterized by sound reduction index, *R* is no
 
 ![image](https://user-images.githubusercontent.com/79191009/167239072-c6bee032-05e7-42e9-91c9-9edec3839ec9.png){: .align-center}
 
-Figure 1: Direct and Flanking Transmission between Rooms (Source: [1]){. :text-center}
+Figure 1: Direct and Flanking Transmission between Rooms (Source: [1])
+{: .text-center}
 
 To quantify the overall contribution of all the factors mentioned, the sound insulation between rooms is also commonly characterized using the sound level difference, ***D***:
 
@@ -94,10 +95,13 @@ The effect on the sound field of a slightly leaky room is shown in Figure 2 belo
 
 ![image](https://user-images.githubusercontent.com/79191009/167239523-5d432b5e-3d25-4d93-ac7d-590120d1ca36.png){: .align-center}
 
-Figure 2: Example of Sound Intensity Contours Benhind a Window, Either Closed (Left) or Slightly Opened (Right) (Source: [1]){: .text-center}
+Figure 2: Example of Sound Intensity Contours Benhind a Window, Either Closed (Left) or Slightly Opened (Right) (Source: [1])
+{: .text-center}
 
 ### Single Number Rating
-To speed up the rating of specimens, experts usually rely on single number rating. It is an obvious simplification compared to the usual 6 octave bands (125-4000 *Hz*). ASTM had came up with the **Sound Transmission Class (STC)** which features a sliding contour. The contour runs 9 *dB* per octave from 125 to 500 *Hz*, 3 *dB* per octave from 500 to 1250 *Hz* and stays flat from 1250 to 4000 *Hz*. To determine the *STC* value, one glides the contour over the sound reduction or sound insulation curved measured until the sum of negative deviations is no greater than 32 *dB* and the maximum negative deviation is 8 *dB*. Whereas ISO uses the *R_w* or *D_w* system, which is similar but the frequency range is 100 to 3150 *Hz*. To cope with low frequencies down to 50 *Hz*, ISO has extended its *R_w* contour in standard ***ISO 16717-1***.
+To speed up the rating of specimens, experts usually rely on single number rating. It is an obvious simplification compared to the usual 6 octave bands (125-4000 *Hz*). ASTM had came up with the **Sound Transmission Class (STC)** which features a sliding contour. The contour runs 9 *dB* per octave from 125 to 500 *Hz*, 3 *dB* per octave from 500 to 1250 *Hz* and stays flat from 1250 to 4000 *Hz*. 
+
+To determine the *STC* value, one glides the contour over the sound reduction or sound insulation curved measured until the sum of negative deviations is no greater than 32 *dB* and the maximum negative deviation is 8 *dB*. Whereas ISO uses the *R_w* or *D_w* system, which is similar but the frequency range is 100 to 3150 *Hz*. To cope with low frequencies down to 50 *Hz*, ISO has extended its *R_w* contour in standard ***ISO 16717-1***.
 
 ### Computing Sound Reduction Index
 The most fundamental and crudest model is the mass law.
