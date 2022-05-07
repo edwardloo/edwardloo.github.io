@@ -13,7 +13,7 @@ excerpt: "An introduction to the background of building acoustics."
 ---
 
 ---
-# Building Acoustics
+
 ## Background on Building Acoustics
 ### Definition
   > "***Building acoustics*** (a.k.a architectural acoustics) is the science and engineering of achieving a good sound within a building and is a branch of acoustical engineering." - [Wikipedia](https://en.wikipedia.org/wiki/Architectural_acoustics)
