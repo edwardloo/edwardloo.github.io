@@ -1,5 +1,5 @@
 ---
-title: "Basic of Sound Insulation"
+title: "Sound Insulation"
 categories:
     - Blog
 tags:
@@ -9,7 +9,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
-excerpt: "A comprehensive review on acoustic insulation."
+excerpt: "A comprehensive review on acoustic or sound insulation."
 ---
 
 ## Sound Insulation
