@@ -43,7 +43,6 @@ and *D* is the extra attenuation (e.g.: barriers, ground effects etc.):
 | Room (very large) | Spatial sound level decay is present | Empirical model exists, but usage of simulation models are advised | - |
 
 Where:
-*
 - *h_m* = the average height above ground of the direct sound propagation path, in *m*
 - *α* = mean absorption coefficient
 - *A* = total area of absorption, in *m^2*
