@@ -17,7 +17,7 @@ Sound insulation is commonly quantified using the ***Sound Reduction Index (SRI)
 
 ### Sound Reduction Index, *R*
 
-![image](https://user-images.githubusercontent.com/79191009/167237595-4667a1e3-4e60-4462-b86c-9b31cdf95664.png){. :align-center}
+![image](https://user-images.githubusercontent.com/79191009/167237595-4667a1e3-4e60-4462-b86c-9b31cdf95664.png){: .align-center}
 
 Where:
   - ***R***     = sound reduction index 
@@ -47,7 +47,7 @@ Where:
 #### Doubling Sound Insulation
 The effect of a doubling is characterized by the ***sound reduction improvement index, ΔR*** which is defined as:
 
-![image](https://user-images.githubusercontent.com/79191009/167238377-25ee52d5-7efd-4dbc-bdd7-ed6a96936857.png){. :align-center}
+![image](https://user-images.githubusercontent.com/79191009/167238377-25ee52d5-7efd-4dbc-bdd7-ed6a96936857.png){: .align-center}
 
 Where:
   - ***ΔR***                      = sound improvemnt index
@@ -70,11 +70,11 @@ Figure 1: Direct and Flanking Transmission between Rooms (Source: [1]){. :text-c
 
 To quantify the overall contribution of all the factors mentioned, the sound insulation between rooms is also commonly characterized using the sound level difference, ***D***:
 
-![image](https://user-images.githubusercontent.com/79191009/167239183-c9f3d33b-fb76-466a-a275-dd4dabfeb321.png){. :align-center}
+![image](https://user-images.githubusercontent.com/79191009/167239183-c9f3d33b-fb76-466a-a275-dd4dabfeb321.png){: .align-center}
 
 However, the sound insulation value is dependent on the amount of acoustic absorption inside the receiving room. Therefore, the usual rule is to standardize the result by the reverberation time. Which gives the ***standardized sound insulation, DnT***:
 
-![image](https://user-images.githubusercontent.com/79191009/167239269-a230fda5-b643-4ee9-85d8-298d0b76e8f0.png){. :align-center}
+![image](https://user-images.githubusercontent.com/79191009/167239269-a230fda5-b643-4ee9-85d8-298d0b76e8f0.png){: .align-center}
 
 Where:
   - ***D***       = sound level difference
@@ -92,9 +92,9 @@ Where:
 
 The effect on the sound field of a slightly leaky room is shown in Figure 2 below.
 
-![image](https://user-images.githubusercontent.com/79191009/167239523-5d432b5e-3d25-4d93-ac7d-590120d1ca36.png){. :align-center}
+![image](https://user-images.githubusercontent.com/79191009/167239523-5d432b5e-3d25-4d93-ac7d-590120d1ca36.png){: .align-center}
 
-Figure 2: Example of Sound Intensity Contours Benhind a Window, Either Closed (Left) or Slightly Opened (Right) (Source: [1]){. :text-center}
+Figure 2: Example of Sound Intensity Contours Benhind a Window, Either Closed (Left) or Slightly Opened (Right) (Source: [1]){: .text-center}
 
 ### Single Number Rating
 To speed up the rating of specimens, experts usually rely on single number rating. It is an obvious simplification compared to the usual 6 octave bands (125-4000 *Hz*). ASTM had came up with the **Sound Transmission Class (STC)** which features a sliding contour. The contour runs 9 *dB* per octave from 125 to 500 *Hz*, 3 *dB* per octave from 500 to 1250 *Hz* and stays flat from 1250 to 4000 *Hz*. To determine the *STC* value, one glides the contour over the sound reduction or sound insulation curved measured until the sum of negative deviations is no greater than 32 *dB* and the maximum negative deviation is 8 *dB*. Whereas ISO uses the *R_w* or *D_w* system, which is similar but the frequency range is 100 to 3150 *Hz*. To cope with low frequencies down to 50 *Hz*, ISO has extended its *R_w* contour in standard ***ISO 16717-1***.
@@ -102,7 +102,7 @@ To speed up the rating of specimens, experts usually rely on single number ratin
 ### Computing Sound Reduction Index
 The most fundamental and crudest model is the mass law.
 
-![image](https://user-images.githubusercontent.com/79191009/167240075-0cfa47d4-a716-4074-98f7-d11f31d8bd29.png){. :align-center}
+![image](https://user-images.githubusercontent.com/79191009/167240075-0cfa47d4-a716-4074-98f7-d11f31d8bd29.png){: .align-center}
 
 Where:
   - ***R*** = sound reduction index for a single wall
@@ -115,7 +115,7 @@ There are a few computer programs available to try to compute the sound insulati
 ### Noise Radiated by a Construction
 The noise radiated by a building will depend on the sound reduction index of each envelop componenet as well as respective area.
 
-![image](https://user-images.githubusercontent.com/79191009/167240273-7eff3d36-949e-4dda-ac51-7e374d498750.png){. :align-center}
+![image](https://user-images.githubusercontent.com/79191009/167240273-7eff3d36-949e-4dda-ac51-7e374d498750.png){: .align-center}
 
 Where:
   - ***L_w*** = sound power level radiated by a component
