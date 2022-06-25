@@ -10,4 +10,4 @@ title: "Books"
 |-----|-------|--------|------------|----------|
 |1. | Machine Learning with Python | -- | NA | NA |
 |2. | みんなの日本語 | -- | NA | NA |
-|3. | The Barefoot Investor: The Only Money Guide You'll Ever Need | Scott Pape | 296 | 48 |
+|3. | The Barefoot Investor: The Only Money Guide You'll Ever Need | Scott Pape | 296 | 109 |
