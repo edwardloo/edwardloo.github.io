@@ -11,7 +11,7 @@ toc_sticky: true
 excerpt: "Brief introduction on the notion of intelligibility, annoyance and disturbance in acoustics."
 ---
 
-# Inatelligibility (Quantitative)
+# Intelligibility (Quantitative)
 
 > ***Intelligibility*** is the ability to understand speech under given conditions.
 
