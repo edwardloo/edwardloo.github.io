@@ -73,4 +73,4 @@ iii. 13 mm plasterboard: Range(-15 to -5) dB until 2000 Hz, then 0 to 5 dB above
 ## References
 [1] M. Asselineau, *Building Acoustics*. Boca Raton, Florida: CRC Press, 2015.
 
-[2] M. J. Crocker,, *Handbook of Noise and Vibration Control*. Hoboken, New Jersey: John Wiley & Sons, Inc., 2007
+[2] M. J. Crocker, *Handbook of Noise and Vibration Control*. Hoboken, New Jersey: John Wiley & Sons, Inc., 2007
