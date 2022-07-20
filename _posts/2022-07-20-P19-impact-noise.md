@@ -28,7 +28,7 @@ excerpt: "A review on impact noise"
 
 ![image](https://user-images.githubusercontent.com/79191009/179966250-f13429d8-828f-45fa-82bd-68a2d1e1bf43.png){:.align-center}
 
-Figure 1: Schematic Representation of Two Basic Impulse Noise Pressure-Time Profiles (Source: [2]){:.text-center}
+Figure 1: Schematic Representation of Two Basic Impulse Noise Pressure-Time Profiles (Source: [2]) {:.text-center}
  
 ## 3.0 Measurement of Impact Noise
 - Record the pressure-time history of the impact 
