@@ -121,4 +121,4 @@ More reading between the two ratings [here](https://nrc-publications.canada.ca/e
 
 [2] D. A. Bies, C. H. Hansen, and C. Q. Howard, *Engineering Noise Control*, 5th ed. Boca Raton, Florida: CRC Press, 2017.
 
-[3] M. J. Crocker,, *Handbook of Noise and Vibration Control*. Hoboken, New Jersey: John Wiley & Sons, Inc., 2007
+[3] M. J. Crocker, *Handbook of Noise and Vibration Control*. Hoboken, New Jersey: John Wiley & Sons, Inc., 2007
