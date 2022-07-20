@@ -12,17 +12,23 @@ toc_sticky: true
 excerpt: "A review on impact noise"
 ---
 
-## 1.0 Impact Noise
-> **Impact or "Impulse (loosely)" Noise** includes all forms of high-intensity short-duration sounds. The energy of an impact is usually broadly distributed, but spectral concentrations of energy can occur at various frequencies throughout the audible range.  
+## 1.0 Definition
+> **Impact or "Impulse (loosely)" Noise** includes all forms of **high-intensity short-duration** sounds. The energy of an impact is usually **broadly distributed**, but spectral concentrations of energy can occur at various frequencies throughout the audible range.  
 
 ## 2.0 Impact versus Impulse Noise
-Impact Noise (also Reverberant B-wave) is normally produced by non-explosive means (i.e., metal-to-metal impacts in industrial plant processes). Reverberant industrial environments where impact noises are usually heard causes the duration of impact noises to be longer than associated impulse noises.  
+### 2.1 Impact Noise
+> **Impact Noise** (also **Reverberant B-wave**) is normally produced by non-explosive means (i.e., metal-to-metal impacts in industrial plant processes).
 
-Impulse Noise (also Non-reverberant A-wave) is defined as a short-duration sound characterized by a shock front pressure wave-form (i.e., instantaneous pressure rise) produced by sudden release of energy (i.e., explosives or gun blasts). Impulse noises are typically generated in free-field environments where sound-reflecting surfaces that create reverberation are absent. 
+- Reverberant industrial environments where impact noises are usually heard causes the duration of impact noises to be longer than associated impulse noises.  
+
+### 2.2 Impulse Noise
+> **Impulse Noise** (also **Non-reverberant A-wave**) is defined as a short-duration sound characterized by a shock front pressure wave-form (i.e., instantaneous pressure rise) produced by sudden release of energy (i.e., explosives or gun blasts). 
+
+- Impulse noises are typically generated in free-field environments where sound-reflecting surfaces that create reverberation are absent. 
 
 ![image](https://user-images.githubusercontent.com/79191009/179966250-f13429d8-828f-45fa-82bd-68a2d1e1bf43.png){:.align-center}
 
-Figure 1: Schematic Representation of Two Basic Impulse Noise Pressure-Time Profiles (Source: [2]) {: .text-center}
+Figure 1: Schematic Representation of Two Basic Impulse Noise Pressure-Time Profiles (Source: [2]){: .text-center}
  
 ## 3.0 Measurement of Impact Noise
 - Record the pressure-time history of the impact 
@@ -38,8 +44,8 @@ Figure 1: Schematic Representation of Two Basic Impulse Noise Pressure-Time Prof
 - Extraneous noise and vibrations 
 
 ### 4.2 Noise Signatures
-- Industrial - reverberant (ringing) and conforms to law of acoustics 
-- Blast (Shock) waves - governs by physical principles that are different than the laws of acoustics 
+- *Industrial* - reverberant (ringing) and conforms to law of acoustics 
+- *Blast (Shock) waves* - governs by physical principles that are different than the laws of acoustics 
 
 ## 5.0 Floor Impact Noise
 - Measured in laboratory 
@@ -59,8 +65,8 @@ Where:
   - ***A*** = equivalent absorptive area in the reception room [m^2]
 
 ### 5.1 Measurement Standards
-- ISO 140-6: (100-3150 Hz, recently attempting to extend towards low-frequency region until 50 Hz) 
-- ASTM E492: (125-4000 Hz) 
+- **ISO 140-6**: (100-3150 Hz, recently attempting to extend towards low-frequency region until 50 Hz) 
+- **ASTM E492**: (125-4000 Hz) 
 
 ## 6.0 Impact Noise Transmission
 Affected by: 
@@ -83,30 +89,30 @@ Where:
 - ***T_0***: reference reverberation time (usually 0.5 s) [s] 
 
 ### 6.2 Measurement Standards
-- ISO 140-7 
-- ISO 15712-2 
-- ASTM 1007 (also account for ceiling underneath the floor) 
+- **ISO 140-7** 
+- **ISO 15712-2** 
+- **ASTM 1007** (also account for ceiling underneath the floor) 
 
 ## 7.0 Rain Impact Noise
 - Significant on light roof elements 
 - Softer roof covering provide quieter rain impact noise 
 
 ### 7.1 Test Procedure Standard
-- ISO 140-18
+- **ISO 140-18**
 
 ## 8.0 Single Number Rating
-- ASTM E989: Impact Insulation Class (IIC) 
-- ISO717-2: Normalized Weighted Impact Sound Index (***L_{nw}***) 
+- **ASTM E989**: Impact Insulation Class (IIC) 
+- **ISO717-2**: Normalized Weighted Impact Sound Index (***L_{nw}***) 
 
-More reading between the two ratings [(here)](https://nrc-publications.canada.ca/eng/view/accepted/?id=b23a5bb8-d638-4bf6-b50f-0bba06348410).
+More reading between the two ratings [here](https://nrc-publications.canada.ca/eng/view/accepted/?id=b23a5bb8-d638-4bf6-b50f-0bba06348410).
 
 ## 9.0 Impact Noise Reduction by Floor Coverings
-- ISO 140-8: Laboratory Measurements of the Reduction of Transmitted Impact Noise by Floor Coverings on a Heavyweight Standard Floor 
-- ASTM E2179: Standards Test Method for Laboratory Measurement of the Effectiveness of Floor Coverings in Reducing Impact Sound Transmission Through Concrete Floors 
+- **ISO 140-8**: Laboratory Measurements of the Reduction of Transmitted Impact Noise by Floor Coverings on a Heavyweight Standard Floor 
+- **ASTM E2179**: Standards Test Method for Laboratory Measurement of the Effectiveness of Floor Coverings in Reducing Impact Sound Transmission Through Concrete Floors 
 
 ## 10.0 Walking Noise
 - Walking noise is assessed by performing the measurement in the same room. 
-- Measurement carried out using EN 16205 standard (***L_{new}***) 
+- Measurement carried out using **EN 16205** standard (***L_{new}***) 
 
 
 ---
