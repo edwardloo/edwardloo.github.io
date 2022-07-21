@@ -10,7 +10,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
-excerpt: "An overview on building vibration"
+excerpt: "An overview on building vibrations"
 ---
 
 ## 1.0 Sources of Building Vibration
