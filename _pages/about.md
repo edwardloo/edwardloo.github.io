@@ -18,7 +18,9 @@ Hello there, nice to meet you, I am Edward. Professionally, I am an acoustic con
 | [About](https://edwardloo.github.io/about/) | This page. |
 
 ## Disclaimer
-I usually learn by referring back to the quick and summarized notes that I had documented. This is the reason why my posts are usually short and simple as they are just for my quick reference to refresh on what I had read and learned, which is also the reason for the creation of this website. Only complex or confusing concepts are explained in a more detailed manner for my posts. ***This website is just for the documentation of my continuous learnings and are meant for my own personal usage only.*** If the reader seek for more details, please refer to the references of each post or do your own due diligence for clarification.
+I usually learn by referring back to the quick and summarized notes that I had documented. This is the reason why my posts are usually short and simple as they are just for my quick reference to refresh on what I had read and learned, which is also the reason for the creation of this website. Only complex or confusing concepts are explained in a more detailed manner for my posts. 
+
+***This website is just for the documentation of my continuous learnings and are meant for my own personal usage only.*** If the reader seek for more details, please refer to the references of each post or do your own due diligence for clarification.
 
 ---
 ## Miscellaneous
