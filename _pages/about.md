@@ -4,7 +4,7 @@ title: "About"
 ---
 
 ---
-Hello there, nice to meet you, I am Edward. I am an engineering graduate majoring in mechanical engineering from the University of Malaya. Throughout my studies, I had gained interest in structural dynamics, acoustics and vibration. Despite my formal education, I had also self learned the fundamentals of data science and machine learning through online resources.
+Hello there, nice to meet you, I am Edward. Professionally, I am an acoustic consultant due to my interest in structural dynamics, acoustics and vibration. Despite my formal education, I had also self-learned the fundamentals of data science and machine learning through online resources.
 
 ---
 ## Webpage Directories
