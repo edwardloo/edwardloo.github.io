@@ -1,0 +1,32 @@
+---
+title: "Supervised Machine Learning (Regression vs Classification)"
+categories:
+    - Blog
+tags:
+    - Machine Learning
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
+excerpt: "An overview on Regression versus Classification"
+---
+
+## 1.0 Supervised Machine Learning 
+> Types of machine learning algorithms that makes predictions based on given examples (training data). 
+
+## 2.0 Learning Rate 
+> A tuning parameter that is essentially the step size of each optimization iteration while moving toward a minimum of loss function. 
+
+## 3.0 Regularization 
+> A process of encouraging a learning algorithm to shrink the weights (importance) of the parameters without necessarily demanding that the parameter is set to exactly zero. In simpler terms, adding large regularization term to the cost function reduces the weight, w of an algorithm. 
+
+## 4.0 Symbols 
+
+
+## 5.0 Cheat Sheet for Regression and Classification 
+
+---
+## References
+[1] M. Asselineau, *Building Acoustics*. Boca Raton, Florida: CRC Press, 2015.
+
+[2] M. J. Crocker, *Handbook of Noise and Vibration Control*. Hoboken, New Jersey: John Wiley & Sons, Inc., 2007
