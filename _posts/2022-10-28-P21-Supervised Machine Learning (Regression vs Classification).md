@@ -30,8 +30,8 @@ excerpt: "An overview on Regression versus Classification"
 
 
 ## 5.0 Cheat Sheet for Regression and Classification 
-|   | Regression | Classification |
-|---|------------|----------------|
+| Column | Regression | Classification |
+|--------|------------|----------------|
 | Definition | Regression is an algorithm to predict a number from an infinitely many possible numbers (continuous). | Classification is an algorithm to predict categories or classes (discrete). |
 | Simplest Model | Multiple Linear Regression & Vectorized Form | Logistic Regression (Sigmoid Function) |
 | Simples Model (Equation) | ![image](https://user-images.githubusercontent.com/79191009/198672821-ed80dc59-64b8-4d58-9f89-f148f13e66c8.png) | ![image](https://user-images.githubusercontent.com/79191009/198672763-c86c256c-3f4e-4244-89e9-b3773aa2199d.png) |
