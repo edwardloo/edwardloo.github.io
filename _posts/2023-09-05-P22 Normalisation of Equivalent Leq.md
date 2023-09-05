@@ -10,7 +10,7 @@ toc_icon: "cog"
 toc_sticky: true
 excerpt: "Quick Note and Example for Leq Normalisation from one reference time to another."
 ---
-# Equivalent Continuous Sound Pressure Level (L_{eq,T})
+# Equivalent Continuous Sound Pressure Level ($L_{eq,T}$)
 Basically, the amount of acoustic energy that is lasts continuously throughout measurement time, T, and is equivalent to the actual measured fluctuating sound pressure levels.
 
 ## Time Correction for Leq (Normalisation)
