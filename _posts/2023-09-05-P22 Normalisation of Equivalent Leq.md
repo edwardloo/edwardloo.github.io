@@ -26,7 +26,7 @@ $$L_{eq,1hr} = 95 + 10\log(\frac{10(5)}{3600})$$
 
 $$L_{eq,1hr} = 95 - 18.6$$
 
-$$L_{eq,1hr} = 76.4 dB(A)$$
+$$L_{eq,1hr} = 76.4 \text{ dB(A)}$$
 ---
 ## References
 [1] "*Time Correction*" Jun. 02, 2020. Accessed on Sept. 05, 2023. [Online]. Available: https://strutt.arup.com/help/Fundamentals/TimeRatioAtten.htm
